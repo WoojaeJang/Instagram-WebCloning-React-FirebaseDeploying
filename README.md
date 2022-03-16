@@ -2,8 +2,8 @@
 
 ## 👨‍👨‍👦‍👦 프로젝트 구성원
 - [김민기](https://github.com/minki0415)
-- [장우재](https://github.com/WoojaeJang)
 - [이승현](https://github.com/IlearnML)
+- [장우재](https://github.com/WoojaeJang)
 
 
 ## 📑 프로젝트 개요
